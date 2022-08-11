@@ -1,4 +1,4 @@
-# iotalpec-privacy-policy
+# fujialpha-privacy-policy
 Privacy Policy
 
 FUJIALPHA built the elevator monitoring app as a Free app. This SERVICE is provided by FUJIALPHA at no cost and is intended for use as is.
